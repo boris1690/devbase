@@ -26,3 +26,6 @@ After installing the Node modules, you must start the expo server with the next 
     expo start 
 
 This command will create a expo server after test on Andorid or Ios mobile throught the app "EXPO GO" . 
+
+![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
